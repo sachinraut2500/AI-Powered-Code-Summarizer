@@ -1,5 +1,5 @@
 # AI-Powered Code Summarizer
----
+-----
 ## Overview
 AI-Powered Code Summarizer generates human-readable explanations of Python code using OpenAI GPT. It helps developers understand code quickly, improving maintainability and debugging efficiency.
 
